@@ -17,5 +17,6 @@ public class PlayLadderAndSnake {
 		ladderAndSnakeGameBoard.decideFirstTurn();
 
 		ladderAndSnakeGameBoard.proceedGame();
+		
 	}
 }
