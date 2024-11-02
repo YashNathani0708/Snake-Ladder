@@ -191,6 +191,7 @@ public class LadderAndSnake {
 				}
 			}
 			System.out.println();
+			
 		}
 	}
 }
